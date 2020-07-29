@@ -16,3 +16,9 @@ Learnt few concept of Numpy arrays from "Data analysis in python course" on free
 Completed Numpy from "Data analysis in python course" on freecodecamp.org and implemented the same.
 Started learning the pandas library.
 Attended "Branding & designing bootcamp" organized by Girls x Tech!
+
+#Day4
+
+Finished lectures of Pandas Library from "Data analysis in python course" on freecodecamp.org and implemented the same.
+Referred  [@this resource](https://ourcodingclub.github.io/tutorials/pandas-python-intro/) for learning more about pandas and matplotlib.
+Designed a logo in canva.com
