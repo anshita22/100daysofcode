@@ -3,7 +3,7 @@
 I joined "Data analysis in python course" on freecodecamp.org and Completed few lectures.
 Learnt how to import files(csv, excel) in jupyter notebook.
 Learnt some OOPS concepts in Python.
-Practiced OpenCV. [@Link to repo](https://github.com/anshita22/opencvPython/blob/master/practice_opencv.ipynb)
+Practiced OpenCV. [Link to repo](https://github.com/anshita22/opencvPython/blob/master/practice_opencv.ipynb)
 
 #Day2
 
