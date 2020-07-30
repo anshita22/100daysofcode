@@ -22,3 +22,10 @@ Attended "Branding & designing bootcamp" organized by Girls x Tech!
 Finished lectures of Pandas Library from "Data analysis in python course" on freecodecamp.org and implemented the same.
 Referred  [this resource](https://ourcodingclub.github.io/tutorials/pandas-python-intro/) for learning more about pandas and matplotlib.
 Designed a logo in canva.com
+
+#Day5
+
+Explored more about pandas, plotted graphs using [matplotlib](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py) and [pandas](https://pandas.pydata.org). 
+Learnt data cleaning with pandas, and implemented the same on jupyter.
+Designed another logo in canva.com
+
