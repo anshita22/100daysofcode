@@ -29,3 +29,6 @@ Explored more about pandas, plotted graphs using [matplotlib](https://matplotlib
 Learnt data cleaning with pandas, and implemented the same on jupyter.
 Designed another logo in canva.com
 
+#Day6
+
+Completed data cleaning with python from "Data analysis in python course" on freecodecamp.org and implemented the same. Learnt some concepts of data visualization with matplotlib library. 
