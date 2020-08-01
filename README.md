@@ -32,3 +32,9 @@ Designed another logo in canva.com
 #Day6
 
 Completed data cleaning with python from "Data analysis in python course" on freecodecamp.org and implemented the same. Learnt some concepts of data visualization with matplotlib library. 
+
+#Day7
+
+Joined August_leetcode_challenge from today and solved today's [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md).
+Solved two another [problems](https://github.com/anshita22/Programming/tree/master/Arrays) in leetcode and watched related videos.
+Watched lectures on data reading from "Data analysis in python course" on freecodecamp.org and tried doing the same, done with csv but not with sql data
