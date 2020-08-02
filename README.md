@@ -40,4 +40,4 @@ Solved two another [problems](https://github.com/anshita22/Programming/tree/mast
 Watched lectures on data reading from "Data analysis in python course" on freecodecamp.org and tried doing the same, done with csv but not with sql data
 
 #Day8
-Solved only one problem from August_leetcode_challenge 
+Solved only one problem from August_leetcode_challenge today [problem](https://github.com/anshita22/Programming/tree/master/august_leetcodechallenge)
