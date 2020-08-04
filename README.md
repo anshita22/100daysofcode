@@ -46,3 +46,7 @@ Solved only one problem from August_leetcode_challenge [problem](https://github.
 #Day9
 
 Solved only one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md)
+
+#Day10
+
+Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md)
