@@ -49,4 +49,4 @@ Solved only one problem from August_leetcode_challenge [problem](https://github.
 
 #Day10
 
-Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md)
+Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md) Completed lectures on data reading from files(CSV, EXCEL, HTML, SQL)and tried implementing the same, have to work more on SQL. Completed lectures of 'Data Analysis with python'. Will try to work on projects on data analysis from tomorrow!
