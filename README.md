@@ -53,4 +53,4 @@ Solved one problem from August_leetcode_challenge [problem](https://github.com/a
 
 #Day11
 
-Completed project 1- [Mean-Variance-Standard Deviation Calculator](https://repl.it/@AnshitaSrivasta/fcc-mean-var-std-1#README.md). Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/tree/master/august_leetcodechallenge). Solved another problwm on [Trie data structure](https://github.com/anshita22/Programming/tree/master/Trie)
+Completed project 1- [Mean-Variance-Standard Deviation Calculator](https://repl.it/@AnshitaSrivasta/fcc-mean-var-std-1#README.md). Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/tree/master/august_leetcodechallenge). Solved another problem on [Trie data structure](https://github.com/anshita22/Programming/tree/master/Trie)
