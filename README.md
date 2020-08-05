@@ -50,3 +50,7 @@ Solved only one problem from August_leetcode_challenge [problem](https://github.
 #Day10
 
 Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/blob/master/august_leetcodechallenge/problems.md) Completed lectures on data reading from files(CSV, EXCEL, HTML, SQL)and tried implementing the same, have to work more on SQL. Completed lectures of 'Data Analysis with python'. Will try to work on projects on data analysis from tomorrow!
+
+#Day11
+
+Completed project 1- [Mean-Variance-Standard Deviation Calculator](https://repl.it/@AnshitaSrivasta/fcc-mean-var-std-1#README.md). Solved one problem from August_leetcode_challenge [problem](https://github.com/anshita22/Programming/tree/master/august_leetcodechallenge). Solved another problwm on [Trie data structure](https://github.com/anshita22/Programming/tree/master/Trie)
