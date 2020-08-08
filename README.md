@@ -62,3 +62,8 @@ Solved 2 problems from leetcode- [arrays](https://github.com/anshita22/Programmi
 #Day13
 
 Solved 2 problems from leetcode- [arrays](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md)
+
+#Day14
+
+Solved 1 problem from leetcode and 2 problems from binarysearch.io [arrays](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md)
+
