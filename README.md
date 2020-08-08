@@ -65,5 +65,5 @@ Solved 2 problems from leetcode- [arrays](https://github.com/anshita22/Programmi
 
 #Day14
 
-Solved 1 problem from leetcode and 2 problems from binarysearch.io [arrays](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md)
+Solved 1 problem from leetcode and 2 problems from binarysearch.io [arrays](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md). Joined data science accelerator program at #numyard.
 
