@@ -73,4 +73,4 @@ Solved 1 problem from leetcode and 2 problems from codechef-august-long-challeng
 
 #Day16
 
-Solved today's august leetcode challenge problem and one problem from codechef-august-long-challenge. Solved 3 problems from arrays- [leetcode]() Solved problems from strings- binarysearch.io. Learnt some OOPS concept in python.
+Solved today's august leetcode challenge problem and one problem from codechef-august-long-challenge. Solved 3 problems from arrays- [leetcode](https://github.com/anshita22/Programming) Solved problems from strings- binarysearch.io. Learnt some OOPS concept in python.
