@@ -70,3 +70,7 @@ Solved 1 problem from leetcode and 2 problems from binarysearch.io [arrays](http
 #Day15
 
 Solved 1 problem from leetcode and 2 problems from codechef-august-long-challenge. Trying to solve one more problem from binarysearch.io. [Check here](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md)
+
+#Day16
+
+Solved today's august leetcode challenge problem and one problem from codechef-august-long-challenge. Solved 3 problems from arrays- [leetcode]() Solved problems from strings- binarysearch.io. Learnt some OOPS concept in python.
