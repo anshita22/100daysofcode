@@ -74,3 +74,7 @@ Solved 1 problem from leetcode and 2 problems from codechef-august-long-challeng
 #Day16
 
 Solved today's august leetcode challenge problem and one problem from codechef-august-long-challenge. Solved 3 problems from arrays- leetcode, Solved 2 problems from strings- binarysearch.io. Learnt some OOPS concept in python. [Repository](https://github.com/anshita22/Programming)
+
+#Day17
+
+Solved more questions on arrays from leetcode and binarysearch.io. Solved today's leetcode problem from august challenge. Made a mini project in python - [Password generator](https://github.com/anshita22/Python-projects/tree/master/password-generator)
