@@ -77,4 +77,8 @@ Solved today's august leetcode challenge problem and one problem from codechef-a
 
 #Day17
 
-Solved more questions on arrays from leetcode and binarysearch.io. Solved today's leetcode problem from august challenge. Made a mini project in python - [Password generator](https://github.com/anshita22/Python-projects/tree/master/password-generator)
+Solved more questions on arrays from leetcode and binarysearch.io. Solved today's leetcode problem from august challenge. Made a mini project in python - [Password generator](https://github.com/anshita22/Python-projects/tree/master/password-generator). Learnt concepts of Errors And Exceptions Handling in python.
+
+#Day18
+
+Solved only one problem from August_leetcode_challenge. Selected as Participant for Contributor's Hack, 2020 #hakincodes. Started a python project- Youtube downloader.
