@@ -82,3 +82,7 @@ Solved more questions on arrays from leetcode and binarysearch.io. Solved today'
 #Day18
 
 Solved only one problem from August_leetcode_challenge. Selected as Participant for Contributor's Hack, 2020 #hakincodes. Started a python project- Youtube downloader.
+
+#Day19
+
+Solved only one problem from arrays- leetcode. #viva tomorrow.
