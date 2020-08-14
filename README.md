@@ -86,3 +86,7 @@ Solved only one problem from August_leetcode_challenge. Selected as Participant 
 #Day19
 
 Solved only one problem from arrays- leetcode. #viva tomorrow.
+
+#Day20
+
+Solved today's august leetcode challenge problem. #viva today.
