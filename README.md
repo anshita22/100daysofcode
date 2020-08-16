@@ -90,3 +90,7 @@ Solved only one problem from arrays- leetcode. #viva tomorrow.
 #Day20
 
 Solved today's august leetcode challenge problem. #viva today.
+
+#Day21
+
+Solved only one problem from arrays- leetcode.
