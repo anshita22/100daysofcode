@@ -94,3 +94,8 @@ Solved today's august leetcode challenge problem. #viva today.
 #Day21
 
 Solved only one problem from arrays- leetcode.
+
+#Day22
+
+Solved only one problem from arrays- leetcode.
+
