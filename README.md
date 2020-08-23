@@ -119,3 +119,6 @@ Solved one problem from arrays- leetcode, contributed in open source project.
 
 Solved one problem from arrays- leetcode.
 
+#Day28
+
+Solved one problem from arrays- leetcode and watched some lectures on youtube of arrays.
