@@ -126,3 +126,8 @@ Solved one problem from arrays- leetcode and watched some lectures on youtube of
 #Day29
 
 Solved one problem from arrays- leetcode and watched some lectures on arrays.
+
+#Day30
+
+Solved one problem from arrays- leetcode.
+
