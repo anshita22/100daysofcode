@@ -138,3 +138,7 @@ Solved one problem from arrays- leetcode.
 #Day32
 
 Solved more problems on arrays- leetcode. #endsem
+
+#Day33
+
+Participated in #CODEFIESTA by @ScriptFoundation Pune, solved 3/5 questions. Solved more questions on arrays-leetcode [visit this once](https://github.com/anshita22/Programming/blob/master/Arrays/Ques%20with%20solns.md)
