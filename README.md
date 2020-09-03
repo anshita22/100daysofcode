@@ -163,3 +163,6 @@ strings-leetcode. Preparing for #endsem exam.
 
 solved prblems on leetcode. Preparing for #endsem exam. #mtech classes has started
 
+#Day39
+
+Solved prblem on leetcode. Preparing for #endsem exam.
