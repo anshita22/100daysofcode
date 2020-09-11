@@ -178,3 +178,7 @@ Solved prblem on leetcode. Preparing for #endsem exam.
 #Day42
 
 #strings- leetcode. 
+
+#Day43
+
+after gap of 4 days, worked on qgis and google earth. solved a leetcode problem- #strings
