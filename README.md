@@ -190,3 +190,7 @@ solved a leetcode problem- #strings
 #Day45
 
 Learning MATLAB
+
+#Day46
+
+Written a code in python for statistical data analysis.
